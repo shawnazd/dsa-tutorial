@@ -1,12 +1,12 @@
-# Free DSA with Python Course 🐍
+# DSA with Python
 
-Welcome to the **Free DSA with Python Course Playlist** by **Code & Debug!**
+Welcome to the **DSA with Python\***
 
 This comprehensive playlist is designed to help you master Data Structures and Algorithms (DSA) using Python, one of the most versatile programming languages. Whether you're a beginner or preparing for coding interviews, this course is your one-stop solution to understanding and implementing DSA concepts effectively.
 
 ---
 
-## 🎯 What You'll Learn
+## 🎯 What We'll Learn
 
 - ✅ Arrays, Linked Lists, Stacks, Queues, and Hashing
 - ✅ Sorting Algorithms like Quick Sort, Merge Sort, and Bubble Sort
@@ -41,5 +41,3 @@ Open any `.ipynb` file in **Jupyter Notebook** or **Google Colab** and start lea
 If you find this helpful, don't forget to **subscribe to Code & Debug** and hit the 🔔 for notifications about upcoming videos.
 
 > Let's make DSA with Python simple and fun together!
-
----
