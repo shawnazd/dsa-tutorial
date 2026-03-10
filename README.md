@@ -36,8 +36,4 @@ Open any `.ipynb` file in **Jupyter Notebook** or **Google Colab** and start lea
 
 ---
 
-## 🙏 Support
-
-If you find this helpful, don't forget to **subscribe to Code & Debug** and hit the 🔔 for notifications about upcoming videos.
-
-> Let's make DSA with Python simple and fun together!
+Let's make DSA with Python simple and fun together!
