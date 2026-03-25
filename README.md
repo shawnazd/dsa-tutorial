@@ -1,39 +1,54 @@
 # DSA with Python
 
-Welcome to the **DSA with Python\***
-
-This comprehensive playlist is designed to help you master Data Structures and Algorithms (DSA) using Python, one of the most versatile programming languages. Whether you're a beginner or preparing for coding interviews, this course is your one-stop solution to understanding and implementing DSA concepts effectively.
+Learning Data Structures and Algorithms from scratch using Python — from arrays to graphs.
 
 ---
 
-## 🎯 What We'll Learn
+## Topics Covered
 
-- ✅ Arrays, Linked Lists, Stacks, Queues, and Hashing
-- ✅ Sorting Algorithms like Quick Sort, Merge Sort, and Bubble Sort
-- ✅ Searching Techniques including Linear Search and Binary Search
-- ✅ Advanced topics like Recursion, Dynamic Programming, and Graph Algorithms
-- ✅ Real-world coding problems from LeetCode and other platforms
+**Linear Data Structures**
+- Arrays and strings
+- Linked lists (singly, doubly)
+- Stacks and queues
+
+**Searching & Sorting**
+- Linear search and binary search
+- Bubble sort, selection sort, insertion sort
+- Merge sort and quick sort
+
+**Hashing**
+- Hash maps and hash sets
+- Collision handling
+
+**Recursion**
+- How recursion works
+- Backtracking problems
+
+**Trees**
+- Binary trees and binary search trees
+- Tree traversals (inorder, preorder, postorder)
+- Heaps and priority queues
+
+**Graphs**
+- Representation (adjacency list, matrix)
+- BFS and DFS
+- Shortest path algorithms
+
+**Dynamic Programming**
+- Memoization and tabulation
+- Classic DP problems (knapsack, fibonacci, LCS)
 
 ---
 
-## 💡 Key Features
-
-- 📌 Beginner-friendly explanations
-- 📌 Practical Python implementations
-- 📌 Real coding interview questions
-- 📌 Step-by-step problem-solving approach
-
----
-
-## 🚀 Getting Started
+## Run the Code
 
 ```bash
 git clone https://github.com/shawnazd/dsa-tutorial.git
 cd dsa-tutorial
 ```
 
-Open any `.ipynb` file in **Jupyter Notebook** or **Google Colab** and start learning!
+Open any `.ipynb` file in Jupyter Notebook or Google Colab.
 
 ---
 
-Let's make DSA with Python simple and fun together!
+> Focused on understanding the logic first, code second.
